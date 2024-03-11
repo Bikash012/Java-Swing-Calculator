@@ -1,5 +1,8 @@
 # Swing Calculator (Java)
 
+![image](https://github.com/Bikash012/Java-Swing-Calculator/assets/101698546/97981a2a-3bad-478e-9e7e-ca13ae64a357)
+
+
 ## Overview
 
 This project is a simple calculator implemented in Java using the Swing framework. The calculator provides a user-friendly graphical user interface (GUI) for performing basic arithmetic operations, making it an excellent resource for Java beginners learning GUI development and fundamental programming concepts.
